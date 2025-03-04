@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, &nbsp I'm Alex</h1>
 
-<!--
-**alexbascevan/alexbascevan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">An aspiring full-stack web developer specializing in backend development, with a strong passion for Offensive Cybersecurity. Actively seeking internships for Summer 2025 in SOC Analyst or Junior Developer roles.</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexbascevan&label=Profile%20views&color=0e75b6&style=flat" alt="alexbascevan" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Visit me](https://www.alexbascevan.com)
+
+- You can reach me at **ab@alexbascevan.com**
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexbascevan&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="alexbascevan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexbascevan&show_icons=true&theme=tokyonight&locale=en" alt="alexbascevan" /></p>
