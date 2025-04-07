@@ -8,6 +8,4 @@
 
 - You can reach me at **ab@alexbascevan.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexbascevan&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="alexbascevan" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexbascevan&show_icons=true&theme=tokyonight&locale=en" alt="alexbascevan" /></p>
