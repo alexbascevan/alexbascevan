@@ -8,4 +8,7 @@
 
 - You can reach me at **ab@alexbascevan.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexbascevan&show_icons=true&theme=tokyonight&locale=en" alt="alexbascevan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexbascevan&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexbascevan&theme=tokyonight&hide_border=false" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexbascevan&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" /></p>
