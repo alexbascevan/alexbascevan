@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexbascevan&label=Profile%20views&color=0e75b6&style=flat" alt="alexbascevan" /> </p>
 
-- [Visit me](https://www.alexbascevan.com)
+- [Check Out My Portfolio Website!](https://www.alexbascevan.com)
 
 - You can reach me at **ab@alexbascevan.com**
 
